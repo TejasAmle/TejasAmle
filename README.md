@@ -5,14 +5,15 @@
 
 # Hi, I'm Tejas Amle :chicken:
 
-Community Growth | Software engineer :robot:. (In progress)
+Community Growth | Software engineer :robot:. (Third year Student)
 
 Bennett University. :man_technologist:
 
 ## About me 
 
-:heart: Drawing | :black_heart: Hip-Hop | :blue_heart: Programming
+:heart: Community | :black_heart: Music | :blue_heart: Techophilia
 
+- 🌐 https://tejasamle.tech
 - :earth_americas: I'm from India
 - :video_game: I like to play video games
 - :gem: I love to customize everything lol
