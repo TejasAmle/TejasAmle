@@ -13,7 +13,7 @@ Bennett University. :man_technologist:
 
 :heart: Drawing | :black_heart: Hip-Hop | :blue_heart: Programming
 
-- :earth_americas: I'm from Medellin - Colombia
+- :earth_americas: I'm from India
 - :video_game: I like to play video games
 - :gem: I love to customize everything lol
 
